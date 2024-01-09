@@ -1,0 +1,66 @@
+@font-face {
+    font-family: font1;
+    src: url(../fonts/DimorInlineA.ttf);
+}
+@font-face {
+    font-family: font2;
+    src: url(../fonts/VinetaRg.ttf);
+}
+.bg_img{
+    background-image: url(../images/BackgroundImage.png);
+}
+.txt_color{
+    color: #bf9264!important;
+}
+.nav_color{
+    background-color: #bf9264;
+}
+.active_clr{
+    background-color: #7C5F41;
+    display: inline-flex;
+}
+.title1{
+    color: #bc9263;
+    font-family: font1;
+    line-height: 0.6;
+}
+.txt_color1{
+    color: #7C5F41;
+}
+.ten{
+    font-family: font2;
+    color: #bc9263;
+    font-size: 100px;
+}
+.try_img1{
+    background-image: url(../images/tryItToday/1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.try_img2{
+    background-image: url(../images/tryItToday/2.png);
+    background-repeat: no-repeat;
+}
+.try_img3{
+    background-image: url(../images/tryItToday/3.png);
+}
+.event_img{
+    background-image: url(../images/UpcommingEvents.png);
+}
+.input_st{
+    color: #bc9263;
+    background-color: #201810;
+    border: 1px solid #bc9263;
+}
+.btn1{
+    border: 1px solid #bf9264;
+    font-size: 16px;
+}
+.side_img{
+    background-image: url(../images/FormSideImage.png);
+    background-repeat: no-repeat;
+}
+.footer_img{
+    background-image: url(../images/footbg.png);
+    background-repeat: no-repeat;
+}
